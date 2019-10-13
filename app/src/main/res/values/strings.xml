@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">SnakeSnap</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_to_snakesnap">Welcome To SnakeSnap!</string>
+    <string name="upload">UPLOAD</string>
+    <string name="UPLOAD">BTNUPLOAD</string>
+    <string name="nonvenom">Non Venomous</string>
+    <string name="venomous">Venomous</string>
+    <string name="back">Back</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="snake_information">Snake Information</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="first_aid_treatment">First-aid treatment</string>
+    <!-- snake information -->
+    <string name="article_title">Snake Information</string>
+    <string name="article1">
+        <centre><i>1. Reticulated Python\n</i></centre>
+        <b>Scientific name:</b> Malayopython reticulatus \n
+        <b>Length:</b> > 1000 cm \n
+        <b>Colour:</b> Yellow, brown, black \n
+        <b>Pattern:</b> • Rhomboidal markings • Oblique Line from snout to nape and eye to cornered of mouth \n
+        <b>Belly:</b> Yellow with brown spot \n
+        <b>Eyes:</b> Small, Vertical pupil \n
+        <b>Habitat:</b> Forest (at edge of water), can also be found in cities, towns and plantations, live on land, in water, on trees \n
+        <b>Active:</b> Mostly during night but still active during day \n
+        <b>Food</b> Bird, Frog, Lizard, Rodent/Mammal \n\n
+    </string>
+    <string name="article2">
+        <centre><i>2. Malayan Pit Viper \n</i></centre>
+        <b>Scientific name:</b> Calloselasma rhodostoma \n
+        <b>Length:</b> 145 cm \n
+        <b>Colour:</b> Reddish brown or Purplish Brown \n
+        <b>Pattern:</b> • Dark brown sub-trianglular mark  •Dark post-ocular stripe, scalloped ventrally until the angle of jaws \n
+        <b>Belly:</b> Pinkish cream, mottled with brown \n
+        <b>Eyes:</b> Vertical pupil \n
+        <b>Habitat:</b> Dry lowland forests and plantations \n
+        <b>Active:</b> During night or day \n
+        <b>Food</b> Bird, Frog, Lizard, Rodent/Mammal \n\n
+    </string>
+    <string name="welcome">Hi there! \n Welcome To SnakeSnap \n </string>
+</resources>
